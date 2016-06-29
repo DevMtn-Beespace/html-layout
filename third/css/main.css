@@ -1,0 +1,45 @@
+header {
+    background: #d8d8d8;
+    width: 100vw;
+    height: 10vh;
+    padding: 1vh 3vh;
+
+}
+.bluebox {
+    background: #4a90e2;
+    height: 8vh;
+    width: 8vh;
+
+}
+.textbox {
+    padding: 30px;
+    height: 30vh;
+    width: 100vw;
+    font-size: 3vh;
+    font-family: arial;
+    font-weight: 100 ;
+}
+
+.row1 {
+    width: 100vw;
+    background: #4a90e2;
+    height: 15vh;
+}
+
+.row2 {
+    width: 100vw;
+    background: #50e3c2;
+    height: 15vh;
+}
+
+.row3 {
+    width: 100vw;
+    background: #b8e986;
+    height: 15vh;
+}
+
+.row4 {
+    width: 100vw;
+    background: #f8e71c;
+    height: 15vh;
+}
